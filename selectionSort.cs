@@ -8,7 +8,7 @@ namespace sortAlgorithms
 {
     internal class selectionSort
     {
-        public static void Sort(List<int> list)
+        public static List<int> Sort(List<int> list)
         {
             int n = list.Count;
 
@@ -29,6 +29,8 @@ namespace sortAlgorithms
                 list[minIndex] = list[i];
                 list[i] = temp;
             }
+            return list;
+
         }
     }
 }
