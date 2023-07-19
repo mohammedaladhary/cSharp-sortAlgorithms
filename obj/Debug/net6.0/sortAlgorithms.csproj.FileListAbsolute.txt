@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\bin\Debug\net6.0\sortAlgorithms.exe
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\bin\Debug\net6.0\sortAlgorithms.deps.json
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\bin\Debug\net6.0\sortAlgorithms.runtimeconfig.json
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\bin\Debug\net6.0\sortAlgorithms.dll
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\bin\Debug\net6.0\sortAlgorithms.pdb
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\obj\Debug\net6.0\sortAlgorithms.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\obj\Debug\net6.0\sortAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\obj\Debug\net6.0\sortAlgorithms.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\obj\Debug\net6.0\sortAlgorithms.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\obj\Debug\net6.0\sortAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\obj\Debug\net6.0\sortAlgorithms.dll
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\obj\Debug\net6.0\refint\sortAlgorithms.dll
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\obj\Debug\net6.0\sortAlgorithms.pdb
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\obj\Debug\net6.0\sortAlgorithms.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code_TRA\sortAlgorithms\obj\Debug\net6.0\ref\sortAlgorithms.dll
