@@ -8,7 +8,7 @@ namespace sortAlgorithms
 {
     internal class selectionSort
     {
-        public static List<int> Sort(List<int> list)
+        public static List<int> SortList(List<int> list)
         {
             int n = list.Count;
 

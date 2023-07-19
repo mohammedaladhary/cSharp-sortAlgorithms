@@ -8,7 +8,7 @@ namespace sortAlgorithms
 {
     internal class mergeSort
     {
-        public static void Sort(List<int> list)
+        public static void SortList(List<int> list)
 
         {
             if (list.Count <= 1)
@@ -19,8 +19,8 @@ namespace sortAlgorithms
             List<int> right = new List<int>(list.GetRange(mid, list.Count - mid));
 
             // Recursively sort left and right sublists
-            Sort(left);
-            Sort(right);
+            SortList(left);
+            SortList(right);
 
             // Merge the sorted sublists
             Merge(list, left, right);
